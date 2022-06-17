@@ -4,10 +4,10 @@
 
 ## Stack
 
-- Gradle
-- Java
-- Spring Boot
-- MySQL
+- Gradle 7.4
+- Java 11
+- Spring Boot 2.6.3
+- MySQL 5.6
 
 ## Port
 
